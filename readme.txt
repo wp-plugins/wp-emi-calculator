@@ -1,7 +1,7 @@
 === WP EMI Calculator ===
 Contributors: omikant
 Donate Link: http://wptutorialspoint.com/
-Tags: Icon List
+Tags: WordPress EMI Calculator, EMI Calculator, Real Estate Price Calculator
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 1.0
@@ -19,7 +19,7 @@ As of version 1.0, Please use '[emi-calculator]' or `<?php echo do_shortcode('[e
 
 = Credits =
 
-This plugin was written by WP Tutorials Point WordPress Team.
+This Plugin was written by WP Tutorials Point WordPress Team.
 
 == Installation ==
 
@@ -28,7 +28,7 @@ This plugin was written by WP Tutorials Point WordPress Team.
 1. Go to the Plugins Menu in WordPress
 1. Search for "WP EMI Calculator"
 1. Click 'Install'
-1. Activate the plugin
+1. Activate the Plugin
 
 = Manual Installation =
 
@@ -38,9 +38,7 @@ This plugin was written by WP Tutorials Point WordPress Team.
 
 = Once Activated =
 
-1. Place the `[emi-calculator]` shortcode in a Page or Post
-1. Create new items in the `Icon-list` post type, uploading a Featured Image for each.
-	1. *Optional:* You can hyperlink each image by entering the desired url `Image Link URL` admin metabox when adding a new slider image.
+1. Place the `[emi-calculator]` shortcode in a Page or Post.
 
 
 == Frequently Asked Questions ==
@@ -64,5 +62,3 @@ Absolutely - you just need to use the [do_shortcode](http://codex.wordpress.org/
 
 = 1.0 =
 * Added shortcode attribute functionality for tweaking of slider options.
-
-
