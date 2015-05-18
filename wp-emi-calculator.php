@@ -4,7 +4,7 @@
 * Plugin Name: EMI Calculator 
 * Plugin URI: http://www.wptutorialspoint.com/
 * Description: This plugin is for EMI Calculator.
-* Version: 1.0.0
+* Version: 1.0.0.1
 * Author: omikant, wptutorialspoint
 * Author URI: http://www.wptutorialspoint.com/
 * License: GPL2
