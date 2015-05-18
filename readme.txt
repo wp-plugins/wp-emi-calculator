@@ -12,6 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 WP EMI Calculator plugin is for Add Icons with this Shortcode '[emi-calculator]'.
+Please check DEMO on this Link http://www.wptutorialspoint.com/wordpress-emi-calculator-plugin .
 
 
 = Shortcode Options =
@@ -29,6 +30,9 @@ This Plugin was written by WP Tutorials Point WordPress Team.
 1. Search for "WP EMI Calculator"
 1. Click 'Install'
 1. Activate the Plugin
+
+
+Please check DEMO on this Link http://www.wptutorialspoint.com/wordpress-emi-calculator-plugin .
 
 = Manual Installation =
 

@@ -3,7 +3,7 @@
 /**
 * Plugin Name: EMI Calculator 
 * Plugin URI: http://www.wptutorialspoint.com/
-* Description: This plugin is for EMI Calculator.
+* Description: This plugin is for EMI Calculator. Please check DEMO on this Link http://www.wptutorialspoint.com/wordpress-emi-calculator-plugin .
 * Version: 1.0.0.1
 * Author: omikant, wptutorialspoint
 * Author URI: http://www.wptutorialspoint.com/
