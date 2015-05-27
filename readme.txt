@@ -1,7 +1,7 @@
 === WP EMI Calculator ===
-Contributors: omikant
+Contributors: omikant, wptutorialspoint
 Donate Link: http://wptutorialspoint.com/
-Tags: WordPress EMI Calculator, EMI Calculator, Real Estate Price Calculator
+Tags: WordPress EMI Calculator, EMI Calculator, Real Estate Price Calculator, Calculator, jQuery Calculator
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 1.0
